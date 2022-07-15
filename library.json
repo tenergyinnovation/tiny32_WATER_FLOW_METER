@@ -1,0 +1,17 @@
+{
+  "name": "tiny32_WATER_FLOW_METER,
+  "keywords": "FreeRTOS, ESP32, frameworks",
+  "description": "tiny32_WATER_FLOW_METER Library",
+  "homepage": "https://www.tenergyinnovation.co.th",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tenergyinnovation/tiny32_WATER_FLOW_METER
+  },
+  "version": "1.0.0",
+  "authors": {
+    "name": "tiny32_WATER_FLOW_METER,
+    "url": "https://github.com/tenergyinnovation/"
+  },
+  "frameworks": "arduino",
+  "platforms": "esp32"
+}
