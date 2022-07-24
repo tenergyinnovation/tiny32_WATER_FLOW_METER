@@ -29,7 +29,8 @@ void setup()
 void loop()
 {
 
-  int8_t _response_id;
+  Serial.printf("Info: Old ID: %d\r\n",id);
+  Serial.printf("Info: New ID: %d\r\n",new_id);
   _response_id = mcu.WATER_FLOW_METER_SetAddress(id,new_id);
 
   /* check status */
